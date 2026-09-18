@@ -1,0 +1,60 @@
+---
+title: ""
+---
+
+::: {.profile-block}
+![](Gefam2025.jpeg){.profile-photo}
+
+::: {.profile-info}
+# Kênia Barreiro de Souza
+
+::: {.affiliation}
+Professor · Department of Economics
+Universidade Federal do Paraná (UFPR)
+Vice-Coordinator · Graduate Program in Economic Development (PPGDE)
+:::
+
+::: {.contact-links}
+[✉ keniadesouza@ufpr.br](mailto:keniadesouza@ufpr.br)
+[ORCID](https://orcid.org/0000-0002-6306-2044)
+[Lattes](http://lattes.cnpq.br/2406392719606937)
+:::
+:::
+:::
+
+## About
+
+Kênia Barreiro de Souza is a professor at the Department of Economics at the Universidade Federal do Paraná (UFPR), where she has been a faculty member since 2016. She holds a PhD in Economics from the Universidade Federal de Minas Gerais (UFMG, 2015), with a sandwich period at the University of Illinois at Urbana-Champaign under the supervision of Professor Geoffrey Hewings (REAL/UIUC). She also holds a Master's degree in Applied Economics from the Universidade Federal de Juiz de Fora (UFJF, 2011).
+
+Her research brings together computable general equilibrium modelling, input-output analysis, and labour economics to examine questions of gender inequality, regional disparities, and the macroeconomic effects of social policy. She is currently Vice-Coordinator of the PPGDE/UFPR Graduate Program and has served as a consultant for the International Labour Organization (ILO) in partnership with ECLAC and the Brazilian Secretariat for Care and Family.
+
+## Research Interests
+
+::: {.interests}
+- Computable General Equilibrium (CGE) Models
+- Input-Output Analysis
+- Labour Economics & Gender Inequality
+- Regional Economics & Development
+- Social Policy Evaluation
+- Environmental and Energy Economics
+:::
+
+## Education
+
+**PhD in Economics** — Universidade Federal de Minas Gerais (UFMG), 2015
+*Sandwich period at the University of Illinois at Urbana-Champaign (UIUC)*
+Dissertation: *Economic impacts of women's participation in the Brazilian labour market: a general equilibrium analysis*
+
+**MSc in Applied Economics** — Universidade Federal de Juiz de Fora (UFJF), 2011
+Dissertation: *The multiple trends of tertiarization: an input-output analysis of the expansion of the service sector in Brazil*
+
+**BSc in Economics** — Universidade Federal de Juiz de Fora (UFJF), 2008
+
+## Selected Awards & Honours
+
+- **2016** · Travel Grant — 24th IIOA Conference, International Input-Output Association
+- **2014** · Honourable Mention — Paulo Haddad Prize, Brazilian Association of Regional and Urban Studies (ABER)
+
+## Contact
+
+I welcome inquiries about collaborative research, graduate supervision, and mentorship. Please reach out at [keniadesouza@ufpr.br](mailto:keniadesouza@ufpr.br).

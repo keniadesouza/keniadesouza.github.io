@@ -1,0 +1,55 @@
+---
+title: "Research"
+---
+
+## Research Lines
+
+- **Labour Economics & Gender Inequality** — female labour force participation, gender wage gaps, care economy
+- **Computable General Equilibrium (CGE) Models** — interregional and dynamic CGE applied to policy evaluation
+- **Input-Output Analysis** — structural decomposition, multiplier analysis, supply chain linkages
+- **Regional Economics & Development** — regional disparities, fiscal policy, post-pandemic recovery
+- **Environmental & Energy Economics** — GHG emissions, emissions trading systems, energy pricing
+
+---
+
+## Current Projects
+
+::: project-entry
+[Ongoing — 2025–]{.project-status .status-ongoing}
+
+### Regional Perspectives on Women's Labour Market Participation in Brazil
+
+Women face higher unemployment, greater informality, and lower wages in Brazil, with regional patterns varying significantly across states and municipalities. This project investigates the supply- and demand-side drivers of gender gaps using PNAD Contínua micro-data and RAIS administrative records, combining hierarchical models and spatial panel techniques.
+
+**Funding:** Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)
+:::
+
+::: project-entry
+[Ongoing — 2022–]{.project-status .status-ongoing}
+
+### Post-Pandemic Brazil: Economic Recovery Strategies
+
+A multidimensional economic diagnosis of Brazil in the post-COVID-19 period, assessing recovery strategies through computable general equilibrium analysis. The project addresses unemployment, poverty, regional inequality, and fiscal constraints as interacting challenges.
+
+**Collaborators:** E. P. Domingues, A. S. Magalhães, T. S. Carvalho, D. F. Cardoso, L. C. S. Ribeiro, P. V. M. Amaral, G. J. D. Hewings, M. Horridge, and others.
+:::
+
+::: project-entry
+[Completed — 2022–2025]{.project-status .status-completed}
+
+### Growth and Regional Disparities in the Post-Pandemic Period: Sectoral Policy Evaluation via Applied General Equilibrium Analysis
+
+An interregional CGE model for Brazil was used to assess the systemic impacts of post-pandemic sectoral policies at the state (Unidade da Federação) level, with a focus on how sectoral efficiency shapes persistent regional disparities.
+:::
+
+---
+
+## Consultancy
+
+::: project-entry
+[2024–2025]{.project-status .status-completed}
+
+### International Labour Organization (ILO) — Care Investment Simulator
+
+Consultant for an ILO project in partnership with ECLAC and Brazil's Secretariat for Care and Family. Responsibilities included adapting statistical data and performing simulations with the ILO Care Investment Simulator and a CGE model to inform national care policy.
+:::

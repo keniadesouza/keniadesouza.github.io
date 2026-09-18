@@ -1,0 +1,265 @@
+---
+title: "Publications"
+---
+
+Full list available on [ORCID](https://orcid.org/0000-0002-6306-2044) and [Lattes](http://lattes.cnpq.br/2406392719606937).
+
+## Journal Articles
+
+::: pub-entry
+[2026]{.pub-year}
+
+[Structural Drivers of GHG Emissions in Sergipe and the Rest of Brazil: A Decomposition Analysis, 2011–2018]{.pub-title}
+
+[Melo, J. P. P.; Ribeiro, L. C. S.; Freitas, L. F. S.; **Souza, K. B.**]{.pub-authors}
+
+[*Growth and Change*, v. 57]{.pub-journal}
+
+[PDF / DOI](https://onlinelibrary.wiley.com/doi/epdf/10.1111/grow.70095){.pub-link}
+:::
+
+::: pub-entry
+[2025]{.pub-year}
+
+[Economic Consequences of Eliminating Gender Discrimination in the Labor Market]{.pub-title}
+
+[**Souza, K. B.**; Domingues, E. P.; Hewings, G.]{.pub-authors}
+
+[*Economic Systems Research*, v. 1, p. 1–19]{.pub-journal}
+
+[PDF / DOI](https://www.tandfonline.com/doi/full/10.1080/09535314.2024.2437365){.pub-link}
+:::
+
+::: pub-entry
+[2024]{.pub-year}
+
+[Economic Growth and Regional Disparities: A Long-Term Perspective for the State of Sergipe, Brazil]{.pub-title}
+
+[Ribeiro, L. C. S.; Vieira, O. H. P.; **Souza, K. B.**; Santana, J. R.]{.pub-authors}
+
+[*Regional Science Policy and Practice*, v. 16, p. 100125]{.pub-journal}
+
+[PDF / DOI](https://doi.org/10.1016/j.rspp.2024.100125){.pub-link}
+:::
+
+::: pub-entry
+[2024]{.pub-year}
+
+[Macroeconomic Effects of Sugar-Sweetened Beverages Taxation: Simulations in a Computable General Equilibrium Model for Brazil]{.pub-title}
+
+[Cardoso, L. B.; **Souza, K. B.**; Santiago, F. S.; Venson, A. H.; Rosa, M. V. G.]{.pub-authors}
+
+[*Quality & Quantity – International Journal of Methodology*]{.pub-journal}
+:::
+
+::: pub-entry
+[2024]{.pub-year}
+
+[Perda da Ocupação no Mercado de Trabalho Brasileiro: Uma Análise no Contexto da Pandemia de Covid-19]{.pub-title}
+
+[Wroblevski, B.; Catelan, D. W.; **Souza, K. B.**]{.pub-authors}
+
+[*A Economia em Revista*, v. 32, p. 21–42]{.pub-journal}
+
+[PDF / DOI](https://doi.org/10.4025/econrev.v32i2.74621){.pub-link}
+:::
+
+::: pub-entry
+[2023]{.pub-year}
+
+[Price Elasticity of Demand for Ready-to-Drink Sugar-Sweetened Beverages in Brazil]{.pub-title}
+
+[Venson, A. H.; Cardoso, L. B.; Santiago, F. S.; **de Souza, K. B.**; Bielemann, R. M.]{.pub-authors}
+
+[*PLoS ONE*, v. 18, p. e0293413]{.pub-journal}
+
+[PDF / DOI](https://doi.org/10.1371/journal.pone.0293413){.pub-link}
+:::
+
+::: pub-entry
+[2023]{.pub-year}
+
+[Modelling the Effects of the EU Emissions Trading System in Poland: A Comparison Between IO and CGE Results]{.pub-title}
+
+[Rokicki, B.; **Souza, K. B.**; Ribeiro, L. C. S.]{.pub-authors}
+
+[*Journal of Regional Analysis and Policy*, v. 52, p. 54–69]{.pub-journal}
+
+[PDF / DOI](https://jrap.scholasticahq.com/article/91435){.pub-link}
+:::
+
+::: pub-entry
+[2023]{.pub-year}
+
+[Reflexos da Maternidade: a Relação entre o Ensino Infantil e o Trabalho da Mulher]{.pub-title}
+
+[Rosa, M. V. G.; **Souza, K. B.**; Sbicca, A.]{.pub-authors}
+
+[*Revista de Economia Aplicada*, v. 27, p. 509–535]{.pub-journal}
+:::
+
+::: pub-entry
+[2023]{.pub-year}
+
+[Sugar-Sweetened Beverages Tax and Obesity: Simulation of Economic Impacts from Input-Output Analysis for Brazil]{.pub-title}
+
+[Cardoso, L.; Balbinotto Neto, G.; Santiago, F. S.; **Barreiro de Souza, K.**; Morais de Souza, R.]{.pub-authors}
+
+[*Revista Brasileira de Estudos Regionais e Urbanos*, v. 16, p. 162–183]{.pub-journal}
+
+[PDF / DOI](https://doi.org/10.54766/rberu.v16i2.847){.pub-link}
+:::
+
+::: pub-entry
+[2023]{.pub-year}
+
+[Impactos Econômicos de Curto Prazo da Usina Termoelétrica Porto de Sergipe]{.pub-title}
+
+[Vieira, O. H. P.; Ribeiro, L. C. S.; **Souza, K. B.**]{.pub-authors}
+
+[*Revista Econômica do Nordeste*, v. 54, p. 129–148]{.pub-journal}
+
+[PDF](https://www.bnb.gov.br/revista/ren/article/view/1407/1137){.pub-link}
+:::
+
+::: pub-entry
+[2022]{.pub-year}
+
+[Poverty and the Functional Distribution of Income in the Input-Output Framework: In Pursuit of Strategies for Inclusive Growth]{.pub-title}
+
+[Alberti, T. M.; **Souza, K. B.**; Porsse, A. A.]{.pub-authors}
+
+[*Economic Systems Research*, v. 35, p. 1–20]{.pub-journal}
+
+[PDF / DOI](https://www.tandfonline.com/doi/full/10.1080/09535314.2022.2067029){.pub-link}
+:::
+
+::: pub-entry
+[2022]{.pub-year}
+
+[São Francisco River Transposition Project: Socioeconomic Impacts in Brazilian Northeast Semi-Arid Region]{.pub-title}
+
+[Medeiros, E. R.; Carvalho, T. S.; **Souza, K. B.**]{.pub-authors}
+
+[*Papers in Regional Science*, v. 101, p. 1441–1468]{.pub-journal}
+
+[PDF / DOI](https://onlinelibrary.wiley.com/doi/10.1111/pirs.12705){.pub-link}
+:::
+
+::: pub-entry
+[2022]{.pub-year}
+
+[Desigualdades Regionais e Infraestrutura: Uma Análise de Curto e Longo Prazo da UTE Porto de Sergipe]{.pub-title}
+
+[Portugal Vieira, O. H.; Ribeiro, L. C. S.; **de Souza, K. B.**]{.pub-authors}
+
+[*Revista Brasileira de Estudos Regionais e Urbanos*, v. 15, p. 440–467]{.pub-journal}
+
+[PDF / DOI](https://doi.org/10.54766/rberu.v15i3.763){.pub-link}
+:::
+
+::: pub-entry
+[2022]{.pub-year}
+
+[Determinantes da Variação do Emprego dos Jovens Brasileiros: Uma Análise de Decomposição Estrutural para 2002–2015]{.pub-title}
+
+[Catelan, D. W.; **Souza, K. B.**; Vale, V. A.]{.pub-authors}
+
+[*Revista Brasileira de Estudos Regionais e Urbanos*, v. 15, p. 310–344]{.pub-journal}
+
+[PDF / DOI](https://doi.org/10.54766/rberu.v15i2.791){.pub-link}
+:::
+
+::: pub-entry
+[2022]{.pub-year}
+
+[Do Income Policies Mitigate the Economic Impacts of Covid-19 on Tourism in Brazil?]{.pub-title}
+
+[Ribeiro, L. C. S.; Santos, G. F.; Cerqueira, R.; **Souza, K. B.**]{.pub-authors}
+
+[*Economics Bulletin*, v. 44, p. 2574–2579]{.pub-journal}
+:::
+
+::: pub-entry
+[2022]{.pub-year}
+
+[Fiscal Policy and Regional Inequality in Brazil]{.pub-title}
+
+[Cardoso, D. F.; **Souza, K. B.**; Ribeiro, L. C. S.; Cardoso, G. S.]{.pub-authors}
+
+[*Estudos Econômicos*, v. 52, p. 373–396]{.pub-journal}
+:::
+
+::: pub-entry
+[2022]{.pub-year}
+
+[Health Expenditures and Causa Mortis: An Investigation on Municipalities of the State of Paraná, Brazil]{.pub-title}
+
+[Feldens, T. K.; **Souza, K. B.**]{.pub-authors}
+
+[*Cadernos de Saúde Pública*, v. 38, p. 1–14]{.pub-journal}
+:::
+
+::: pub-entry
+[2021]{.pub-year}
+
+[Blue Water Turns Black: Economic Impact of Oil Spill on Tourism and Fishing in Brazilian Northeast]{.pub-title}
+
+[Ribeiro, L. C. S.; **Souza, K. B.**; Domingues, E. P.; Magalhães, A. S.]{.pub-authors}
+
+[*Current Issues in Tourism*, v. 24, p. 1042–1047]{.pub-journal}
+
+[PDF / DOI](https://doi.org/10.1080/13683500.2020.1760222){.pub-link}
+:::
+
+::: pub-entry
+[2020]{.pub-year}
+
+[The Economic Impacts of COVID-19 in Brazil Based on an Interregional CGE Approach]{.pub-title}
+
+[Porsse, A. A.; **Souza, K. B.**; Carvalho, T. S.; Vale, V. A.]{.pub-authors}
+
+[*Regional Science Policy and Practice*, v. 12, p. 1105–1121]{.pub-journal}
+:::
+
+::: pub-entry
+[2020]{.pub-year}
+
+[Ser Mulher Importa? Determinantes, Evidências e Estimativas da Participação Feminina no Mercado de Trabalho Brasileiro]{.pub-title}
+
+[Tedesco, A. C. F.; **Souza, K. B.**]{.pub-authors}
+
+[*Textos de Economia*, v. 23, p. 1–21]{.pub-journal}
+:::
+
+::: pub-entry
+[2019]{.pub-year}
+
+[Regional Funding and Regional Inequalities in the Brazilian Northeast]{.pub-title}
+
+[Ribeiro, L. C. S.; Caldas, R. M.; **Souza, K. B.**; Cardoso, D. F.; Domingues, E. P.]{.pub-authors}
+
+[*Regional Science Policy and Practice*, v. 12, p. 43–59]{.pub-journal}
+
+[PDF / DOI](https://doi.org/10.1111/rsp3.12230){.pub-link}
+:::
+
+::: pub-entry
+[2017]{.pub-year}
+
+[Tourism and Regional Development in the Brazilian Northeast]{.pub-title}
+
+[Ribeiro, L. C. S.; Silva, E. O. V.; Andrade, J. R. L.; **Souza, K. B.**]{.pub-authors}
+
+[*Tourism Economics*, v. 23, p. 717–727]{.pub-journal}
+:::
+
+::: pub-entry
+[2017]{.pub-year}
+
+[Decomposing Brazilian Manufacturing Industry Dynamics in the Mid-2000s: Macroeconomic Factors and Their Sectoral Impacts]{.pub-title}
+
+[Domingues, E. P.; **de Souza, K. B.**; Magalhães, A. S.]{.pub-authors}
+
+[*Revista Economia da ANPEC*, v. 18, p. 411]{.pub-journal}
+:::
